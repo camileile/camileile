@@ -1,63 +1,93 @@
-<div style="text-align: center;" align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&duration=2500&pause=1000&color=853DD8&center=true&vCenter=true&width=555&lines=Hello!+I'm+Camile+Lima;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<div align="center">
 
-</div>
-<div align="center" >
+# 👩🏻‍💻 Camile Lima  
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/camileile?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_fall_center=10_0&format=svg&weeks=30&theme=purple&widget_size=medium) 
-</div>
+### 💜 Frontend Developer | UI/UX Design Enthusiast  
 
-<div style="text-align: center;" align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&duration=8000&pause=1000&color=853DD8&center=true&vCenter=true&width=555&lines=*Git+Status*)](https://git.io/typing-svg)
-
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=camileile&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=853DD8&text_color=FFF&border_radius=3&border_color=853DD8&icon_color=853DD8&show_icons=true&theme=midnight-purple" alt="GitHub stats">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camileile&layout=compact&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=853DD8&text_color=FFF&border_radius=3&border_color=853DD8&icon_color=853DD8&show_icons=true&theme=midnight-purple)
-
+Designing intuitive, aesthetic and functional digital experiences.
 
 </div>
 
-#
+---
 
-### <p align="center"> Estudante de Técnico em Desenvolvimento de Sistemas. Tenho experiência inicial em frontend e estou aprendendo Java para fortalecer minha base como dev. Sempre buscando evoluir e criar novos projetos.
-  
-#
-<div align="center" >
+## 🚀 About Me  
 
+🎓 Technical Student in Systems Development  
+🎨 Focused on Frontend Development and Interface Design  
+🧠 Passionate about UX thinking, usability and visual hierarchy  
+✨ I love combining logic + creativity to build engaging digital products  
 
-<div align="center" >
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&duration=8000&pause=1000&color=853DD8&center=true&vCenter=true&width=555&lines=Tech+Stack)](https://git.io/typing-svg)
+Currently improving:
+- Responsive layouts  
+- UI consistency  
+- Clean code structure  
+- User-centered design  
+
+---
+
+## 🛠 Tech Stack  
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 
 </div>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+---
 
-<h3 align="left">Connect with me!</h3>
+## 📊 GitHub Stats  
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:camilea.lima@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/camile_/)
+<div align="center">
 
-
-
-
-#
-
-
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=camileile&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=853DD8#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=camileile&show_icons=true&theme=default&hide_border=true&bg_color=00000000&icon_color=853DD8#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=camileile&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=853DD8" 
+  />
 </picture>
+
+<br/>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=camileile&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5#gh-dark-mode-only" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=camileile&layout=compact&theme=default&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5#gh-light-mode-only" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camileile&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5" 
+  />
+</picture>
+
+</div>
+
+---
+
+## 📫 Connect With Me  
+
+<div align="center">
+
+<a href="mailto:camilea.lima@gmail.com">
+<img src="https://img.shields.io/badge/Email-853DD8?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/camile_/">
+<img src="https://img.shields.io/badge/Instagram-853DD8?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
