@@ -12,7 +12,7 @@ Designing intuitive, aesthetic and functional digital experiences.
 
 ## 🚀 About Me  
 
-🎓 Technical Student in Systems Development  
+🎓 Student of systems analysis and development
 🎨 Focused on Frontend Development and Interface Design  
 🧠 Passionate about UX thinking, usability and visual hierarchy  
 ✨ I love combining logic + creativity to build engaging digital products  
