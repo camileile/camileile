@@ -14,7 +14,7 @@ Building web applications where technology meets thoughtful design.
 <a href="mailto:camilea.lima@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/camile_/">
+<a href="https://www.instagram.com/cmaile_/">
   <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
