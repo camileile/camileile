@@ -2,37 +2,43 @@
 
 # Camile Lima
 
-**Full Stack Developer · Systems Analysis & Development**
+**Full Stack Developer · Systems Analysis & Development Student**
 
-Building web applications where technology meets thoughtful design.
+Building complete web applications, from intuitive interfaces to robust APIs and database integrations.
 
 <br/>
 
 <a href="https://github.com/camileile">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="mailto:camilea.lima@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/cmaile_/">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a Full Stack Developer focused on building modern web applications,
-combining software development with UI/UX and visual design.
+I'm a **Systems Analysis and Development student at IFPE** and a **Full Stack Developer** with experience building complete web applications.
 
- Systems Analysis & Development  
- Full Stack Web Development  
- UI/UX & Interface Design  
- Interested in clean architecture, usability and scalable solutions
+I work across both frontend and backend, developing interfaces, REST APIs, database integrations and application logic using technologies such as **TypeScript, JavaScript, Node.js, Python, Next.js and relational databases**.
 
-Currently learning, building and experimenting with new technologies.
+My main interests include:
+
+- Full Stack Development
+- REST APIs
+- Web Applications
+- Software Architecture
+- Databases
+- Testing and reliability
+- Performance and scalable applications
+
+I'm continuously learning, building projects and exploring new technologies.
 
 ---
 
@@ -41,10 +47,10 @@ Currently learning, building and experimenting with new technologies.
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/SQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1"/>
 </p>
 
@@ -55,14 +61,21 @@ Currently learning, building and experimenting with new technologies.
   <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 </p>
 
-### Backend & Database
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=009688"/>
   <img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-18181B?style=flat-square"/>
+</p>
+
+### Databases
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=003B57"/>
 </p>
@@ -72,30 +85,79 @@ Currently learning, building and experimenting with new technologies.
 <p>
   <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFmpeg-18181B?style=flat-square&logo=ffmpeg&logoColor=007808"/>
   <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E"/>
 </p>
 
 ---
 
-## GitHub
+## Featured Projects
+
+### ClipFlow
+
+**Next.js · TypeScript · FastAPI · Python · yt-dlp · FFmpeg**
+
+Web platform for downloading and converting public media from multiple platforms.
+
+- Support for YouTube, TikTok, Instagram and X/Twitter
+- MP4 download and MP3 conversion
+- Real-time progress, speed, ETA and cancellation
+- Background jobs and concurrency control
+- Rate limiting and URL validation
+- Production-ready configuration, health checks and security headers
+
+---
+
+### Lumen
+
+**Next.js · TypeScript · Node.js · Prisma · SQLite · OpenRouter**
+
+Web platform focused on automated analysis of web pages and online content.
+
+- Frontend and backend integration
+- REST API development
+- Prisma database integration
+- User and access management
+- External AI API integration
+- Layered application architecture
+
+---
+
+### Benvi
+
+**TypeScript · Next.js · Node.js · MySQL**
+
+Academic platform developed to connect customers with local service providers.
+
+- Backend features and REST APIs
+- Authentication and user management
+- Relational database integration
+- Role-based access
+- Business rules and entity modeling
+- Model, Service and Controller architecture
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=camileile&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=A855F7&text_color=9CA3AF&include_all_commits=true" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=camileile&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camileile&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=9CA3AF" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=camileile&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
 
 </div>
 
 ---
 
-## What I'm Building
+## Currently Learning
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Web Applications        UI / UX       Experiments     │
-│                                                         │
-│   Full Stack              Design        New Technologies│
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+NestJS
+PostgreSQL
+Redis
+Testing
+Cloud Infrastructure
+Distributed Systems
