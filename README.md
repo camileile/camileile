@@ -95,7 +95,7 @@ A web app to download public media from YouTube, TikTok, Instagram and X, with M
 ### 🛠️ Benvi
 `TypeScript · Next.js · Node.js · MySQL`
 
-Academic project: a marketplace that connects people to local service providers. I worked on authentication, user management, access levels, business rules and the database model, using a model/service/controller structure.
+A platform built in modules to bring local services closer to the people who need them. The current module, **Benvi Profissionais**, is a marketplace that connects clients to service providers in their city. I work on authentication, user management, different access levels, business rules and the database model, with the backend organized in model, service and controller layers.
 
 ---
 
